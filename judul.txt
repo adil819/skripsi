@@ -1,2 +1,7 @@
-Idenya seputar Machine Learning, masih belum tahu apakah Image Processing, atau Natural Language Processing.
+Idenya seputar Machine Learning, 
+
+opsi bidang kasus:
+- Image Processing
+- Natural Language Processing
+- Sistem Rekomendasi / Pengambil Keputusan
 
