@@ -4,4 +4,3 @@ opsi bidang kasus:
 - Image Processing
 - Natural Language Processing
 - Sistem Rekomendasi / Pengambil Keputusan
-- Speech Recognition
